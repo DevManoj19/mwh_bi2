@@ -1,8 +1,3 @@
-Besto! Based on your notebook content, here's a beautiful and complete `README.md` file tailored to your project. You can customize the metadata like title, description, or contributors if needed.
-
----
-
-````markdown
 # 🛡️ GDPR-Compliant DID System using DIDKit
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DevManoj19/mwh_bi2/blob/main/bi_2.ipynb)
