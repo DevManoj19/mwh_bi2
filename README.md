@@ -107,5 +107,3 @@ MIT License. See `LICENSE` for more details.
 * 🧪 [SpruceID - DIDKit](https://github.com/spruceid/didkit)
 * 🌐 [Dataverse Demo API](https://demo.dataverse.org)
 * ❤️ Built with love in Colab
-
-```
