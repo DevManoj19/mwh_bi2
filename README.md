@@ -109,5 +109,3 @@ MIT License. See `LICENSE` for more details.
 * ❤️ Built with love in Colab
 
 ```
-
----
